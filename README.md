@@ -2,8 +2,6 @@
 
 Project Repo: [https://github.com/devansha5/Forest-Fire-Prediction.git](https://github.com/devansha5/Forest-Fire-Prediction.git)
 
-Video Demo: [https://drive.google.com/file/d/1CQkj\_t9LROlQXq3aq9SI7zfWAHQoDoWh/view?usp=drivesdk](https://drive.google.com/file/d/1CQkj_t9LROlQXq3aq9SI7zfWAHQoDoWh/view?usp=drivesdk)
-
 **Summary:**
 Wildfires pose a growing threat to ecosystems and communities. This project builds a two-stage machine learning pipeline to **predict whether a major fire (≥ 1 ha) will occur** and **estimate the burned area size**, using meteorological data from the UCI Forest Fires dataset. By combining classification and regression models, we aim to give firefighting agencies both early-warning and severity estimates to optimize resource allocation and preventive measures.
 
