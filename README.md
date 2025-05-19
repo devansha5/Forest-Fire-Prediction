@@ -1,6 +1,7 @@
 # Predicting Forest Fires with Machine Learning
 
 Project Repo: [https://github.com/devansha5/Forest-Fire-Prediction.git](https://github.com/devansha5/Forest-Fire-Prediction.git)
+
 Video Demo: [https://drive.google.com/file/d/1CQkj\_t9LROlQXq3aq9SI7zfWAHQoDoWh/view?usp=drivesdk](https://drive.google.com/file/d/1CQkj_t9LROlQXq3aq9SI7zfWAHQoDoWh/view?usp=drivesdk)
 
 **Summary:**
